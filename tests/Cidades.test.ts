@@ -1,7 +1,7 @@
 import { StatusCodes } from 'http-status-codes';
 import { testServer } from './jest.setup';
 
-describe('Cidades - create', () => {
+describe('Cities test file', () => {
 
   it('should create a city successfuly', async () => {
 
