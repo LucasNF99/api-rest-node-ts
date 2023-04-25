@@ -27,7 +27,7 @@ export const getAll = async (req: Request<{}, {}, {}, IQueryProps>, res: Respons
 
   const result = await CidadesProvider.getAll(
     req.query.page || 1,
-    req.query.page || 7,
+    req.query.limit || 7,
     req.query.filter || '',
     Number(req.query.id || 0)
   );
