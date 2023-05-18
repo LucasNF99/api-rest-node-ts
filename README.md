@@ -21,7 +21,8 @@ List of the main technologies that i used in the project:
 1. Clone the repository: `git clone https://github.com/LucasNF99/api-rest-node-ts`
 2. Navigate to the project directory: `cd api-rest-node-ts`
 3. Install dependencies: `npm install`
-4. Run the project: `npm start`
+4. Run the project: `npm run dev`
+5. Build the project `npm run build`
 
 ## Configuration
 
