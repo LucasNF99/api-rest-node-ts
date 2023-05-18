@@ -4,7 +4,7 @@ I create this API with the goal to improve my skils on NodeJs and Typescript and
 
 ## Technologies Used
 
-List of the main technologies tha i used in the project:
+List of the main technologies that i used in the project:
 
 - Node.js
 - TypeScript
